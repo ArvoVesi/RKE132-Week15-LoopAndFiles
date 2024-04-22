@@ -15,7 +15,7 @@ foreach (Movie movie in myMovies)
 }
 static string[] GetDataFromMyFile()
 {
-    string filePath = @"C:\Users\arvov\Desktop\ProgeData\movies.txt";
+    string filePath = @"C:\lol\lol\lol\lol\movies.txt";
     return File.ReadAllLines(filePath);
 }
 
